@@ -1,0 +1,3 @@
+Hlo Every one, Welcome to the Git tool.
+
+There were lot features in git like reset, fetch and stash
